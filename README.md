@@ -94,9 +94,8 @@ hoặc
 
 <a name="hinhanh"></a>
 ## 6.*Tạo hình ảnh*  
-![VÍ DỤ](https://i.pinimg.com/236x/83/36/99/833699ef064b4b2a473ca71d8ff2c22f.jpg)  
+![mô tả](https://i.pinimg.com/236x/83/36/99/833699ef064b4b2a473ca71d8ff2c22f.jpg)  
 
-![VÍ DỤ](http://www.rw-designer.com/icon-detail/15661)  
 
 <a name="bang"></a>
 ##  7.*Bảng*
