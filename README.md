@@ -94,7 +94,7 @@ hoặc
 
 <a name="hinhanh"></a>
 ## 6.*Tạo hình ảnh*  
-Cú pháp: `!([https://user-images.githubusercontent.com/62929750/188546866-1e9657b4-8fa9-4e75-ba46-5602328f3dce.png](https://i.pinimg.com/236x/83/36/99/833699ef064b4b2a473ca71d8ff2c22f.jpg))`  
+![VÍ DỤ](https://i.pinimg.com/236x/83/36/99/833699ef064b4b2a473ca71d8ff2c22f.jpg)  
 
 ![VÍ DỤ](http://www.rw-designer.com/icon-detail/15661)  
 
