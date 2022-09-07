@@ -34,9 +34,6 @@
 [1.Tìm Hiểu Các Khái Niệm](#timhieu)  
 
 [2. Cài đặt git, Generate, add key SSH...  ](#caidat)
-
-
-
 <a name = "I"></a>
 # I.MARKDOWN
 <a name="markdown"></a>
